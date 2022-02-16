@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-342-advanced-system-architecture-spring-2006/be22816050be790cdbe36b4e97b99549_esd_terms.pdf
+file: /media/courses/esd-342-advanced-system-architecture-spring-2006/be22816050be790cdbe36b4e97b99549_esd_terms.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: esd_terms.pdf
 uid: be228160-50be-790c-dbe3-6b4e97b99549

@@ -4,8 +4,13 @@ description: This section contains information on exploring team collaborations 
   a global research effort to understand climate change, extract key relationships
   from citation Network, identify relevant influence metrics, use metrics to identify
   key players, identify network relationships among key players.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-342-advanced-system-architecture-spring-2006/882745092460283f0c156882d79a14df_pres2_team_struc.pdf
+file: /media/courses/esd-342-advanced-system-architecture-spring-2006/882745092460283f0c156882d79a14df_pres2_team_struc.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: pres2_team_struc.pdf
 uid: 88274509-2460-283f-0c15-6882d79a14df

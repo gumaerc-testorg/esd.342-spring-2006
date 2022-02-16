@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource gives information on the materials science mantra, and
   learnings from materials science experience.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-342-advanced-system-architecture-spring-2006/e43b8bca0a59a4ba1b6af344ab89f4ce_lec1_bkgrnd_mage.pdf
+file: /media/courses/esd-342-advanced-system-architecture-spring-2006/e43b8bca0a59a4ba1b6af344ab89f4ce_lec1_bkgrnd_mage.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec1_bkgrnd_mage.pdf
 uid: e43b8bca-0a59-a4ba-1b6a-f344ab89f4ce

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-342-advanced-system-architecture-spring-2006/57db391a53e8d49359a9644ec03a8fce_lecture18.pdf
+file: /media/courses/esd-342-advanced-system-architecture-spring-2006/57db391a53e8d49359a9644ec03a8fce_lecture18.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture18.pdf
 uid: 57db391a-53e8-d493-59a9-644ec03a8fce

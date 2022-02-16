@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information on UCINET basics, the UCINET environment,
   import data, export data, data processing, tips of using UCINET.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-342-advanced-system-architecture-spring-2006/30e24548b8916e91c49d1977a91a9dcb_ucinet_slides.pdf
+file: /media/courses/esd-342-advanced-system-architecture-spring-2006/30e24548b8916e91c49d1977a91a9dcb_ucinet_slides.pdf
 file_type: application/pdf
+learning_resource_types:
+- Tools
+ocw_type: OCWFile
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Document
 title: ucinet_slides.pdf
 uid: 30e24548-b891-6e91-c49d-1977a91a9dcb
