@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7cc7aadf-f2e1-b076-fe1d-e2aa187324d5
 resourcetype: Document
 title: pres2_team_struc.pdf
 uid: 88274509-2460-283f-0c15-6882d79a14df

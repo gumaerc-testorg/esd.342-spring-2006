@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7cc7aadf-f2e1-b076-fe1d-e2aa187324d5
 resourcetype: Document
 title: pres2_roofnet.pdf
 uid: 29200b2a-d0d8-44e2-3ccf-0e8d499d0cc2

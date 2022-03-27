@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7cc7aadf-f2e1-b076-fe1d-e2aa187324d5
 resourcetype: Document
 title: pres2_powergrid.pdf
 uid: 487077c4-4139-30b0-ce2f-641694521e11

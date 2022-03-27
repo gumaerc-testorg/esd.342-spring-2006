@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 44948e84-69d8-66d0-e9ed-8e2abd23373b
 resourcetype: Document
 title: steel.pdf
 uid: 267cf220-d773-9221-ad2d-5f7e21b9d3ce

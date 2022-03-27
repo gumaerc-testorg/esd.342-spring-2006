@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 57306148-d68a-f171-c262-d16e334dc7c8
 resourcetype: Document
 title: lec25_magee.pdf
 uid: 6c653d7a-7624-15a9-1ba7-497fc8ea4148

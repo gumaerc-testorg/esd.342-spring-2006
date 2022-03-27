@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 57306148-d68a-f171-c262-d16e334dc7c8
 resourcetype: Document
 title: lc1_bkgrnd_moses.pdf
 uid: a077e4dd-d142-9aa8-40ba-9c035d3dfefa

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 144b985e-3398-9d73-8598-b61ad36db69c
 resourcetype: Document
 title: esd_terms.pdf
 uid: be228160-50be-790c-dbe3-6b4e97b99549

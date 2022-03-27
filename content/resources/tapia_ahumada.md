@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 44948e84-69d8-66d0-e9ed-8e2abd23373b
 resourcetype: Document
 title: tapia_ahumada.pdf
 uid: 191d448e-a2a2-28de-c55b-310504ee669b

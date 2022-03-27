@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 44948e84-69d8-66d0-e9ed-8e2abd23373b
 resourcetype: Document
 title: livengood.pdf
 uid: 023a0cad-6cef-2895-04cf-33a0292652da

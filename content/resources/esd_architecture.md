@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 144b985e-3398-9d73-8598-b61ad36db69c
 resourcetype: Document
 title: esd_architecture.pdf
 uid: fab1bacb-c50d-83de-c0e6-2bc0e7f6eb07

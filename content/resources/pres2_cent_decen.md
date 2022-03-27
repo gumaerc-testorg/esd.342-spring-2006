@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7cc7aadf-f2e1-b076-fe1d-e2aa187324d5
 resourcetype: Document
 title: pres2_cent_decen.pdf
 uid: 0e2c24e7-5369-6b6c-f462-f7ed6277edc4

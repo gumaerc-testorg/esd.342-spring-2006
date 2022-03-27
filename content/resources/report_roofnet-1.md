@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7cc7aadf-f2e1-b076-fe1d-e2aa187324d5
 resourcetype: Document
 title: report_roofnet.pdf
 uid: 7f2f8ee4-3fb7-afdd-2e30-a22ae4ba9131

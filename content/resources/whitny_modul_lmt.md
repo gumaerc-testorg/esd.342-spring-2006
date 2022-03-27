@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 144b985e-3398-9d73-8598-b61ad36db69c
 resourcetype: Document
 title: whitny_modul_lmt.pdf
 uid: bbd8c18a-a8cd-b740-e788-35c409525b9a

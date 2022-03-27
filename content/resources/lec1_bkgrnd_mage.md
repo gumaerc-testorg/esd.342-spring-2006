@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 57306148-d68a-f171-c262-d16e334dc7c8
 resourcetype: Document
 title: lec1_bkgrnd_mage.pdf
 uid: e43b8bca-0a59-a4ba-1b6a-f344ab89f4ce

@@ -18,7 +18,7 @@ MATLAB® Tutorial (Courtesy of Gergana Bounova. Used with permission.)
 *   Routines ([ZIP]({{< baseurl >}}/resources/matlab_functions)) (The ZIP file contains: 19 .m files, and 1 .mat file.)
 *   Class Datasets ([ZIP]({{< baseurl >}}/resources/mtlb_datset_clas)) (The ZIP file contains: 2 .wk1 files and 1 .txt file.)
 
-Kleinberg Prestige Routine ([M](/courses/engineering-systems-division/esd-342-advanced-system-architecture-spring-2006/tools/kleinberg_prestige.m)) (Courtesy of Mo-Han Hsieh. Used with permission.)
+Kleinberg Prestige Routine ([M]({{< baseurl >}}/resources/kleinberg_prestige)) (Courtesy of Mo-Han Hsieh. Used with permission.)
 
 Sergei Maslov's "Rewiring" Routines ([ZIP]({{< baseurl >}}/resources/maslov_rewiring)) (The ZIP file contains: 3 .m files and 1 .txt file.) (Courtesy of Sergei Maslov.)  
 These relate to the paper Maslov, S., and K. Sneppen. "Specificity and Stability in Topology of Protein Networks." _Science_ 296 (May 3, 2002): 910-913.
