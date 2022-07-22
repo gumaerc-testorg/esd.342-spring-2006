@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This resource is a supporting file for Kleinberg Prestige Routine.
-file: /media/courses/esd-342-advanced-system-architecture-spring-2006/dec8379bd667acda658450ebadb747bc_kleinberg_prestige.m
+file: /courses/esd-342-advanced-system-architecture-spring-2006/dec8379bd667acda658450ebadb747bc_kleinberg_prestige.m
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Other
 title: kleinberg_prestige.m
 uid: dec8379b-d667-acda-6584-50ebadb747bc
 ---
+This resource is a supporting file for Kleinberg Prestige Routine.
