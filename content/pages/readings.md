@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section contains the readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 144b985e-3398-9d73-8598-b61ad36db69c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The following table lists readings assigned for each class session.
@@ -47,9 +52,9 @@ Vision(s) of Architecture Theory
 Instructors Background and Biases Relative to System Architecture etc.
 {{< tdclose >}}
 {{< tdopen >}}
-ESD Symposium Committee. "ESD Terms and Definitions (Version 17)." March 29, 2002. ([PDF]({{< baseurl >}}/resources/esd_terms))  
+ESD Symposium Committee. "ESD Terms and Definitions (Version 17)." March 29, 2002. ({{% resource_link be228160-50be-790c-dbe3-6b4e97b99549 "PDF" %}})  
   
-ESD Architecture Committee, D. L. Whitney - chair. "The Influence of Architecture in Engineering Systems." MIT Engineering Systems Monograph, March 31, 2004. ([PDF]({{< baseurl >}}/resources/esd_architecture))  
+ESD Architecture Committee, D. L. Whitney - chair. "The Influence of Architecture in Engineering Systems." MIT Engineering Systems Monograph, March 31, 2004. ({{% resource_link fab1bacb-c50d-83de-c0e6-2bc0e7f6eb07 "PDF" %}})  
   
 Oltvai, Z. N., and A. Barabasi. "Life's Complexity Pyramid." _Science_ 298 (October 25, 2002): 763-764.  
 A brief view of biology at several levels of aggregation.  
@@ -182,7 +187,7 @@ Implications to Structural Characteristics/Metrics
 Effects on Modularity
 {{< tdclose >}}
 {{< tdopen >}}
-Whitney, D. L. "Physical Limits to Modularity." ([PDF]({{< baseurl >}}/resources/whitny_modul_lmt))  
+Whitney, D. L. "Physical Limits to Modularity." ({{% resource_link bbd8c18a-a8cd-b740-e788-35c409525b9a "PDF" %}})  
   
 _Background  
   
