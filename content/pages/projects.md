@@ -1,17 +1,26 @@
 ---
 content_type: page
+description: This section contains information on usage patterns of planetary data,
+  PJM electric grid, air transport, public switched telephone network (PSTN), ROOFNET
+  wireless communication network, MAPK pathways, team structures in climate change
+  research, interoperable environments and social networks, centralized and decentralized
+  system structure and evolution.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: 7cc7aadf-f2e1-b076-fe1d-e2aa187324d5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page summarizes the goals of each case study, followed by a [table](#Table) presenting student work on the cases.
 
 In Assignment 2, students proposed ideas for case studies. About 1/3 of these proposals were selected for further work, and assigned to teams of students with a faculty advisor. The presentations and reports on this page are courtesy of the students, and used with permission.
 
-Project Information ([PDF]({{< baseurl >}}/resources/project_info))
+Project Information ({{% resource_link 6130e3c1-e261-f99b-a7c5-56059d8f486e "PDF" %}})
 
 Case Study Goals
 ----------------
@@ -85,14 +94,14 @@ Kate Martin
 Whitney
 {{< tdclose >}}
 {{< tdopen >}}
-Phase 1 ([PDF]({{< baseurl >}}/resources/pres1_plant_data))  
+Phase 1 ({{% resource_link 9c5a7b09-3a4d-1634-4e20-81baa778dee9 "PDF" %}})  
   
-Phase 2 ([PDF]({{< baseurl >}}/resources/pre2_planet_data))  
+Phase 2 ({{% resource_link edfe104f-db06-fb6a-4266-06ee1c34a16d "PDF" %}})  
   
-Final ([PDF - 1.9 MB]({{< baseurl >}}/resources/finl_planet_data))
+Final ({{% resource_link 6d289855-49f6-b078-1c3b-4b45eb18bce6 "PDF - 1.9 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.6 MB]({{< baseurl >}}/resources/rep_planet_data))
+({{% resource_link 398285df-0e38-4bd8-eac3-6d244ffcd6c7 "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,14 +118,14 @@ Katherine Steel
 Whitney
 {{< tdclose >}}
 {{< tdopen >}}
-Phase 1 ([PDF]({{< baseurl >}}/resources/pres1_powergrid))  
+Phase 1 ({{% resource_link 81fa4ab7-61b3-3285-c710-5905805eb70f "PDF" %}})  
   
-Phase 2 ([PDF - 1.9 MB]({{< baseurl >}}/resources/pres2_powergrid))  
+Phase 2 ({{% resource_link 487077c4-4139-30b0-ce2f-641694521e11 "PDF - 1.9 MB" %}})  
   
-Final ([PDF - 2.1 MB]({{< baseurl >}}/resources/final_powergrid))
+Final ({{% resource_link 2e302b19-ec16-2ae2-d961-db49742a04f0 "PDF - 2.1 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 4.3 MB]({{< baseurl >}}/resources/report_powergrid))
+({{% resource_link fd629213-7522-22db-8e16-1eb057f0144f "PDF - 4.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,14 +141,14 @@ Roland Weibel
 Magee
 {{< tdclose >}}
 {{< tdopen >}}
-Phase 1 ([PDF - 3.0 MB]({{< baseurl >}}/resources/pres1_airtrans))  
+Phase 1 ({{% resource_link c82a0944-2f15-85c4-9d32-de21a56dfc59 "PDF - 3.0 MB" %}})  
   
-Phase 2 ([PDF - 2.3 MB]({{< baseurl >}}/resources/pres2_airtrans))  
+Phase 2 ({{% resource_link 0c3f556f-04a7-7b6f-1f70-7797e67f71bb "PDF - 2.3 MB" %}})  
   
-Final (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.2 MB]({{< baseurl >}}/resources/final_airtrans))
+Final ({{% resource_link dd8c94b9-3597-c93f-1d02-64696b44094d "PDF - 4.2 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.6 MB]({{< baseurl >}}/resources/report_airtrans))
+({{% resource_link 556bbcad-a10b-8dce-4801-962631b00eff "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,14 +165,14 @@ Chintan Vaishnav
 Whitney
 {{< tdclose >}}
 {{< tdopen >}}
-Phase 1 ([PDF]({{< baseurl >}}/resources/pres1_pstn))  
+Phase 1 ({{% resource_link 36fcd23d-da45-3367-7519-bf82d01ce803 "PDF" %}})  
   
-Phase 2 ([PDF]({{< baseurl >}}/resources/pres2_pstn))  
+Phase 2 ({{% resource_link 21d353a5-0dd0-1df0-6dec-e425bbff3ab8 "PDF" %}})  
   
-Final ([PDF - 1.2 MB]({{< baseurl >}}/resources/final_pstn))
+Final ({{% resource_link 8b9289ad-0d99-fe83-4ee7-8160b2d08434 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1 MB]({{< baseurl >}}/resources/report_pstn))
+({{% resource_link cc13a050-ea98-7c39-6f45-24760ceed097 "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,14 +189,14 @@ Yingxia Yang
 Moses
 {{< tdclose >}}
 {{< tdopen >}}
-Phase 1 ([PDF]({{< baseurl >}}/resources/pres1_roofnet))  
+Phase 1 ({{% resource_link f7beaadc-c4d0-b5ee-0458-54b01b5af222 "PDF" %}})  
   
-Phase 2 ([PDF - 1.5 MB]({{< baseurl >}}/resources/pres2_roofnet))  
+Phase 2 ({{% resource_link 29200b2a-d0d8-44e2-3ccf-0e8d499d0cc2 "PDF - 1.5 MB" %}})  
   
-Final ([PDF - 2.0 MB]({{< baseurl >}}/resources/final_roofnet))
+Final ({{% resource_link 0f2992cd-64e2-a7b6-960c-7268b35868a8 "PDF - 2.0 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.7 MB]({{< baseurl >}}/resources/report_roofnet-1))
+({{% resource_link 7f2f8ee4-3fb7-afdd-2e30-a22ae4ba9131 "PDF - 4.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,14 +213,14 @@ Nandan Sudarsanam
 Magee
 {{< tdclose >}}
 {{< tdopen >}}
-Phase 1 ([PDF]({{< baseurl >}}/resources/pres1_mapk))  
+Phase 1 ({{% resource_link f28a0c69-174c-b2e5-cd29-07d6d22eb5df "PDF" %}})  
   
-Phase 2 ([PDF]({{< baseurl >}}/resources/pres2_mapk))  
+Phase 2 ({{% resource_link e3d34edf-6255-3a0c-d377-d44a5b66bff6 "PDF" %}})  
   
-Final ([PDF - 2.1 MB]({{< baseurl >}}/resources/final_mapk))
+Final ({{% resource_link 6108b266-a3dd-c712-ece4-dbd89396d61f "PDF - 2.1 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/report_mapk))
+({{% resource_link 70c56d67-095a-d6b9-d94c-b67db5a6c352 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,14 +237,14 @@ Jaemin Song
 Moses
 {{< tdclose >}}
 {{< tdopen >}}
-Phase 1 ([PDF - 2.0 MB]({{< baseurl >}}/resources/pres1_team_struc))  
+Phase 1 ({{% resource_link aedff6d8-dd76-cc6d-b224-249b2e782f9d "PDF - 2.0 MB" %}})  
   
-Phase 2 ([PDF - 1.6 MB]({{< baseurl >}}/resources/pres2_team_struc))  
+Phase 2 ({{% resource_link 88274509-2460-283f-0c15-6882d79a14df "PDF - 1.6 MB" %}})  
   
-Final ([PDF]({{< baseurl >}}/resources/final_team_struc))
+Final ({{% resource_link 75aea439-220e-260b-ab37-fc63b7266683 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0 MB]({{< baseurl >}}/resources/rep_team_struct))
+({{% resource_link b417a6ca-adbb-e60a-a065-339f2b9125ca "PDF - 1.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,14 +261,14 @@ Robb Wirthlin
 Magee
 {{< tdclose >}}
 {{< tdopen >}}
-Phase 1 ([PDF - 2.7 MB]({{< baseurl >}}/resources/pres1_cent_decen))  
+Phase 1 ({{% resource_link 3f3fa9fa-79e8-6bbb-504e-ab754fb12126 "PDF - 2.7 MB" %}})  
   
-Phase 2 ([PDF]({{< baseurl >}}/resources/pres2_cent_decen))  
+Phase 2 ({{% resource_link 0e2c24e7-5369-6b6c-f462-f7ed6277edc4 "PDF" %}})  
   
-Final ([PDF]({{< baseurl >}}/resources/final_cent_decen))
+Final ({{% resource_link d76bd4e2-19c7-b2d9-804b-bdbf55d0645c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.9 MB]({{< baseurl >}}/resources/rep_cent_decent))
+({{% resource_link cba6dc97-f8ea-603f-d009-d732ac29bf9c "PDF - 1.9 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

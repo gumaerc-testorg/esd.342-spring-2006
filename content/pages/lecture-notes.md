@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section lists the lecture topics covered in the course along with
+  the topic wise goals.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 57306148-d68a-f171-c262-d16e334dc7c8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Instructors
@@ -54,13 +60,13 @@ Instructors Background and Biases Relative to System Architecture etc.
 All
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/lec1))  
+({{% resource_link 31440ed9-b876-651c-3287-b430ba75f77e "PDF 1" %}})  
   
-([PDF 2]({{< baseurl >}}/resources/lc1_bkgrnd_moses))  
+({{% resource_link a077e4dd-d142-9aa8-40ba-9c035d3dfefa "PDF 2" %}})  
   
-([PDF 3]({{< baseurl >}}/resources/lc1_bkgrnd_whtny))  
+({{% resource_link 4d135fbe-38f4-0639-548d-7c173392f340 "PDF 3" %}})  
   
-([PDF 4]({{< baseurl >}}/resources/lec1_bkgrnd_mage))
+({{% resource_link e43b8bca-0a59-a4ba-1b6a-f344ab89f4ce "PDF 4" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +88,7 @@ Expansion on Key Concepts Beyond Definitions
 CM
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec2))
+({{% resource_link c66cacc3-5118-03bf-c837-c1965f4dbe18 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +110,7 @@ Brief Discussion of Assignment 2
 All
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec3_hw2))
+({{% resource_link 5680ffd3-867c-58be-5719-b5af151eb148 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +134,7 @@ Relationship of Architecture/Structure and Metrics (Importance of Data)
 DW
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.9 MB]({{< baseurl >}}/resources/lec4))
+({{% resource_link 8c4de1f3-e6df-9d9a-e32a-17db9ee6e6c6 "PDF - 1.9 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +158,7 @@ Choices/Assignments Finished on Weekend After Class
 CM
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec5))
+({{% resource_link 5e18ea11-29b7-d261-f004-6332fe676306 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +180,7 @@ Degree Distribution, Assessment and Meaning of Power Laws
 CM
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec6))
+({{% resource_link 3f52837e-ed9b-bdee-3789-3c79dbe7c514 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +204,7 @@ Effects on Modularity
 DW
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec7))
+({{% resource_link f9ffa341-2d0b-0f63-e286-609481f6eeb6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +230,7 @@ Cultural Links, Tradeoffs
 JM
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec8))
+({{% resource_link 24365895-6c22-0f6b-868c-3b0c5bcb7028 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +250,7 @@ Abstractions in Algebra
 JM
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec9))
+({{% resource_link b226b12f-1aa8-ae98-cef1-01932898e7c7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +274,7 @@ Community Structure Approaches
 DW
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3 MB]({{< baseurl >}}/resources/lec10))
+({{% resource_link 0e254650-c1bf-8cea-51fc-ad92e1e3cb03 "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -292,7 +298,7 @@ Revisit Modularity
 CM
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec11))
+({{% resource_link 6d0f3139-2d6a-15ab-9714-ce135f92efdf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -314,7 +320,7 @@ Cascades, Failures and Epidemics as an Example
 CM
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec12))
+({{% resource_link c66194fb-889c-16ef-5adc-f5d0cd21daff "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -356,7 +362,7 @@ Search on the www
 CM
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec14))
+({{% resource_link 05368f1e-1c33-b69c-4535-a3a376b727cf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -380,7 +386,7 @@ Scaling Laws in Different Contexts
 DW
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec15))
+({{% resource_link 0eef4711-f804-4965-1af6-8078405874c4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -400,7 +406,7 @@ Sloan, Oichi and Piore and Sable
 JM
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture16))
+({{% resource_link ab1bc35a-a71b-3572-192c-7f1cae3c74e9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -424,7 +430,7 @@ Dodds, Watts and Sable
 CM
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture17))
+({{% resource_link 4bd40486-833a-5649-b582-b654d8d39404 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -444,7 +450,7 @@ Degree Correlation Patterns in Different Technical Systems
 DW
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.2 MB]({{< baseurl >}}/resources/lecture18))
+({{% resource_link 57db391a-53e8-d493-59a9-644ec03a8fce "PDF - 2.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -484,7 +490,7 @@ Complexity Metrics
 CM
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5 MB]({{< baseurl >}}/resources/lecture20))
+({{% resource_link fb9de88a-949f-bd84-fa6e-f93513cbf4f0 "PDF - 1.5 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -510,7 +516,7 @@ Hierarchy by Betweenness
 CM
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture21))
+({{% resource_link 469cead1-d921-996d-b1bf-45017c2164d2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -532,7 +538,7 @@ Standards as an Interdependent Set of Artifacts
 CM
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3 MB]({{< baseurl >}}/resources/lecture22))
+({{% resource_link 3772641b-5c80-05f0-8e38-0052ca4eccf2 "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -568,11 +574,11 @@ Overall discussion of presentation and further elaboration of theory and archite
 All
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/lc1_bkgrnd_whtny))  
+({{% resource_link 4d135fbe-38f4-0639-548d-7c173392f340 "PDF 1" %}})  
   
-([PDF 2]({{< baseurl >}}/resources/lec25_magee))  
+({{% resource_link 6c653d7a-7624-15a9-1ba7-497fc8ea4148 "PDF 2" %}})  
   
-([PDF 3]({{< baseurl >}}/resources/lec25_moses))
+({{% resource_link 4b3094e8-ede7-c15e-75b8-45c25621545c "PDF 3" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

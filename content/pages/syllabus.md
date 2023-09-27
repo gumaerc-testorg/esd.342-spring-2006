@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This section contains information on learning objectives, textbooks and
+  readings, assignments and case study project, case study project, grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 479e7d5e-1579-887f-2d92-b029b56426c1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -51,7 +57,7 @@ The required text for this course is:
 
 Watts, Duncan. _Six Degrees: The Science of a Connected Age_ . New York, NY: W.W. Norton & Co., 2004. ISBN: 0393325423.
 
-Additional [readings]({{< baseurl >}}/pages/readings) consisting of book excerpts and papers are assigned for most class sessions.
+Additional {{% resource_link 144b985e-3398-9d73-8598-b61ad36db69c "readings" %}} consisting of book excerpts and papers are assigned for most class sessions.
 
 The course also uses this downloadable book that doubles as a user guide to UCINET software: Hanneman, R. A., and M. Riddle. [_Introduction to social network methods_](http://faculty.ucr.edu/~hanneman/nettext/).
 
