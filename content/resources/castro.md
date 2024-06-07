@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about Jo?o Castro.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/788c934f72b3ede401f745691edf30d6_castro.pdf
+file_size: 46566
 file_type: application/pdf
 learning_resource_types:
 - Assignments

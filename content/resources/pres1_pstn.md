@@ -4,6 +4,7 @@ description: This section contains information on Public switched telephone netw
   switching hierarchy, PSTN history, PSTN definitions and metrics, historical connection
   plans.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/36fcd23dda4533677519bf82d01ce803_pres1_pstn.pdf
+file_size: 262086
 file_type: application/pdf
 learning_resource_types:
 - Projects

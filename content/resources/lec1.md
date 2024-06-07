@@ -3,6 +3,7 @@ content_type: resource
 description: his resource gives information on esd's domains, grading formula, class
   resources, and instructor biases.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/31440ed9b876651c3287b430ba75f77e_lec1.pdf
+file_size: 88177
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

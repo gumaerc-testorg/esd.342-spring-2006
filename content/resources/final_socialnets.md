@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on project goals, Wikipedia wroperties,
   nodes and links.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/cba8bee1cf207d9c5f966565e80c2c16_final_socialnets.pdf
+file_size: 422716
 file_type: application/pdf
 learning_resource_types:
 - Projects

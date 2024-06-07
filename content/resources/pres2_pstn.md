@@ -4,6 +4,7 @@ description: 'This section contains information on PSTN economic regulation (US)
   technology ?copper to fiber, data collection and challenges, Mini Bell network,
   Nano Bell data descriptions, Nano Bell: 2010 network analysis.'
 file: /courses/esd-342-advanced-system-architecture-spring-2006/21d353a50dd01df06dece425bbff3ab8_pres2_pstn.pdf
+file_size: 564008
 file_type: application/pdf
 learning_resource_types:
 - Projects

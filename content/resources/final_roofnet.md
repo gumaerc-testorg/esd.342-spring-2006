@@ -4,6 +4,7 @@ description: This resource contains information on Roofnet background, data reso
   analysis of robustness, political situation, Political situationPolitical situation,
   conclusions.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/0f2992cd64e2a7b6960c7268b35868a8_final_roofnet.pdf
+file_size: 2135121
 file_type: application/pdf
 learning_resource_types:
 - Projects

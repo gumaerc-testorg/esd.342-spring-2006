@@ -5,6 +5,7 @@ description: 'This resource contains information on MatLab basics, working examp
   construction / structure, bike distribution random graphs, network visualization
   -Pajek.'
 file: /courses/esd-342-advanced-system-architecture-spring-2006/eed5c4bfe2effb1024c6c4b7e644ed60_matlab_slides.pdf
+file_size: 399154
 file_type: application/pdf
 learning_resource_types:
 - Tools
