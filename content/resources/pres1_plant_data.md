@@ -4,6 +4,7 @@ description: THis resource contains information on overview of the planetary dat
   system, collaborations of data suppliers, bipartite collaboration network, component
   structure, and summary of future work.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/9c5a7b093a4d16344e2081baa778dee9_pres1_plant_data.pdf
+file_size: 725915
 file_type: application/pdf
 learning_resource_types:
 - Projects

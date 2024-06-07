@@ -4,6 +4,7 @@ description: This resource gives information on dodds, watts and sabel organizat
   modeling for communication robustness, organizational problem decomposition, and
   worldwide air transportation network.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/fb9de88a949fbd84fa6ef93513cbf4f0_lecture20.pdf
+file_size: 1526160
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

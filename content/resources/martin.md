@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource gives information on physics and empirical biophysics.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/e5e6e5fec2df861a038bb93a41416ce1_martin.pdf
+file_size: 21859
 file_type: application/pdf
 learning_resource_types:
 - Assignments

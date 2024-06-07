@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/esd-342-advanced-system-architecture-spring-2006/7f2f8ee43fb7afdd2e30a22ae4ba9131_report_roofnet.pdf
+file_size: 4921796
 file_type: application/pdf
 learning_resource_types:
 - Projects

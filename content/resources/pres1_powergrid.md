@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/esd-342-advanced-system-architecture-spring-2006/81fa4ab761b33285c7105905805eb70f_pres1_powergrid.pdf
+file_size: 79909
 file_type: application/pdf
 learning_resource_types:
 - Projects

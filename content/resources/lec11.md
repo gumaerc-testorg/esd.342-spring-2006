@@ -3,6 +3,7 @@ content_type: resource
 description: This resource gives information on network analysis terminology -notated,
   motifs, functional classification matrix, system representation, and coarse-graining.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/6d0f31392d6a15ab9714ce135f92efdf_lec11.pdf
+file_size: 688200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This section contains information on Introduction, centralized and decentralized
   system structure.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/cba6dc97f8ea603fd009d732ac29bf9c_rep_cent_decent.pdf
+file_size: 2019055
 file_type: application/pdf
 learning_resource_types:
 - Projects

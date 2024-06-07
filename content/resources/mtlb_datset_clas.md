@@ -2,6 +2,7 @@
 content_type: resource
 description: 'The Zip file contains: 2 .wk1 files and 1 .txt file.'
 file: /courses/esd-342-advanced-system-architecture-spring-2006/7451ff44cd99676037cd1e704479e572_mtlb_datset_clas.zip
+file_size: 41938
 file_type: application/zip
 learning_resource_types:
 - Tools

@@ -3,6 +3,7 @@ content_type: resource
 description: This section contains information on Roofnet revisited, Data inconsistencies
   and issues, coordinates and Node ID, revised project goals, degree distribution.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/29200b2ad0d844e23ccf0e8d499d0cc2_pres2_roofnet.pdf
+file_size: 1623093
 file_type: application/pdf
 learning_resource_types:
 - Projects

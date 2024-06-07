@@ -3,6 +3,7 @@ content_type: resource
 description: This section contains information on introduction, network description
   and interpretation, preliminary model and analysis, future directions and scope.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/f28a0c69174cb2e5cd2907d6d22eb5df_pres1_mapk.pdf
+file_size: 169293
 file_type: application/pdf
 learning_resource_types:
 - Projects
