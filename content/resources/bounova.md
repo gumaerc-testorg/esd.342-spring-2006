@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on my Background, hard problems, ssumptions,
   honored expertise, good or elegant designs.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/1520cfeb832f4207696e22ddec1d014b_bounova.pdf
+file_size: 21385
 file_type: application/pdf
 learning_resource_types:
 - Assignments

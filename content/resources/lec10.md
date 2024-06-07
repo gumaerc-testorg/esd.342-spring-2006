@@ -4,6 +4,7 @@ description: This resource gives information on clustering or grouping metrics, 
   and pearson coefficient r,nested self-similar networks, tree with diminishing branching
   ratio, and zachary's model.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/0e254650c1bf8cea51fcad92e1e3cb03_lec10.pdf
+file_size: 1323407
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

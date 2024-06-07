@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about Travis Frank.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/0ce91437e452930a7e1766825a2e5fb7_franck.pdf
+file_size: 25994
 file_type: application/pdf
 learning_resource_types:
 - Assignments

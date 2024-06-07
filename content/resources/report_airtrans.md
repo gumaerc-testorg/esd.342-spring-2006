@@ -4,6 +4,7 @@ description: This section contains information on introduction, overview of the 
   air transportation system, network analysis and system architecture, conclusion,
   feedback on learning objectives.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/556bbcada10b8dce4801962631b00eff_report_airtrans.pdf
+file_size: 1632086
 file_type: application/pdf
 learning_resource_types:
 - Projects

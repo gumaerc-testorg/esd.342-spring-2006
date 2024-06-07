@@ -3,6 +3,7 @@ content_type: resource
 description: This resource gives information on what happens as systems get bigger?,
   a less ambitious goal, and constraints as drivers of structure.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/0eef4711f80449651af68078405874c4_lec15.pdf
+file_size: 1005904
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

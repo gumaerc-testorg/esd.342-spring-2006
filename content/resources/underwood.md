@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource talks about Jennifer Underwood.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/ae56f4eee1a359ab7bbde5f477b4e600_underwood.pdf
+file_size: 40488
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for Kleinberg Prestige Routine.
 file: /courses/esd-342-advanced-system-architecture-spring-2006/dec8379bd667acda658450ebadb747bc_kleinberg_prestige.m
+file_size: 314
 file_type: text/plain
 learning_resource_types:
 - Tools

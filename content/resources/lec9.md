@@ -4,6 +4,7 @@ description: This resource gives information on characeristicsof human layered o
   overlays, complexity and flexibility, team structures, and hybrid hierarchy or mixed
   trees and layers
 file: /courses/esd-342-advanced-system-architecture-spring-2006/b226b12f1aa8ae98cef101932898e7c7_lec9.pdf
+file_size: 146083
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

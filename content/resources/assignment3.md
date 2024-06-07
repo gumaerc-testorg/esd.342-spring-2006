@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/esd-342-advanced-system-architecture-spring-2006/ba24e9330f439aaa2ab8c51f1151aaed_assignment3.pdf
+file_size: 116289
 file_type: application/pdf
 learning_resource_types:
 - Assignments
