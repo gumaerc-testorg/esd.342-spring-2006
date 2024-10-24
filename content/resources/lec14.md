@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource gives information on network search, network navigation:
   milgram''s, small-world networks, and schematic of engineering system model.'
-file: /courses/esd-342-advanced-system-architecture-spring-2006/05368f1e1c33b69c4535a3a376b727cf_Lec14.pdf
+file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/05368f1e1c33b69c4535a3a376b727cf_Lec14.pdf
 file_size: 366130
 file_type: application/pdf
 learning_resource_types:

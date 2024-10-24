@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on motivation, objective of the project,
   transport layer analysis, and analysis of the demand layer.
-file: /courses/esd-342-advanced-system-architecture-spring-2006/dd8c94b93597c93f1d0264696b44094d_final_airtrans.pdf
+file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/dd8c94b93597c93f1d0264696b44094d_final_airtrans.pdf
 file_size: 4476772
 file_type: application/pdf
 learning_resource_types:

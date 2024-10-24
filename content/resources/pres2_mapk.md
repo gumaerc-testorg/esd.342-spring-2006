@@ -2,7 +2,7 @@
 content_type: resource
 description: This section contains information on biological network analysis in the
   literature, motifs and coarse graining, Results.
-file: /courses/esd-342-advanced-system-architecture-spring-2006/e3d34edf62553a0cd377d44a5b66bff6_pres2_mapk.pdf
+file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/e3d34edf62553a0cd377d44a5b66bff6_pres2_mapk.pdf
 file_size: 204815
 file_type: application/pdf
 learning_resource_types:

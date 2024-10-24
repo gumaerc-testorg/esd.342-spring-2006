@@ -2,7 +2,7 @@
 content_type: resource
 description: This section contains information on project background, goal of this
   project, data available, Future steps.
-file: /courses/esd-342-advanced-system-architecture-spring-2006/f7beaadcc4d0b5ee045854b01b5af222_pres1_roofnet.pdf
+file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/f7beaadcc4d0b5ee045854b01b5af222_pres1_roofnet.pdf
 file_size: 875709
 file_type: application/pdf
 learning_resource_types:
