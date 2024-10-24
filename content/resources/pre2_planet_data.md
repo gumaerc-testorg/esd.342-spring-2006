@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This section contains information on Bipartite Networks,
-file: /courses/esd-342-advanced-system-architecture-spring-2006/edfe104fdb06fb6a426606ee1c34a16d_pre2_planet_data.pdf
+file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/edfe104fdb06fb6a426606ee1c34a16d_pre2_planet_data.pdf
 file_size: 680949
 file_type: application/pdf
 learning_resource_types:
