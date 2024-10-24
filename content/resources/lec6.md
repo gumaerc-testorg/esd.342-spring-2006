@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on network analysis terminology -notated,
   network metrics, transitivity or clustering coefficient, c, and degree distributions.
-file: /courses/esd-342-advanced-system-architecture-spring-2006/3f52837eed9bbdee37893c79dbe7c514_lec6.pdf
+file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/3f52837eed9bbdee37893c79dbe7c514_lec6.pdf
 file_size: 387462
 file_type: application/pdf
 learning_resource_types:
