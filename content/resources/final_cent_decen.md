@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on structured vs. unstructured planned
   vs. evolved, organizations, and wikipedia (product).
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/d76bd4e219c7b2d9804bbdbf55d0645c_final_cent_decen.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/d76bd4e219c7b2d9804bbdbf55d0645c_final_cent_decen.pdf
 file_size: 1024654
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This section contains information on introduction, literaure review,
   analysis and results, cmmunity sructure.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/70c56d67095ad6b9d94cb67db5a6c352_report_mapk.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/70c56d67095ad6b9d94cb67db5a6c352_report_mapk.pdf
 file_size: 696335
 file_type: application/pdf
 learning_resource_types:

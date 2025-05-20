@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about David S. Long like personal
   background, and research systems.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/0ab4fe58d3ce469f2d06dd03e36d4b2f_long.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/0ab4fe58d3ce469f2d06dd03e36d4b2f_long.pdf
 file_size: 15857
 file_type: application/pdf
 learning_resource_types:

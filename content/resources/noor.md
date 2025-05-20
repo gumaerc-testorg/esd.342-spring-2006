@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about defining System architecture,
   architecting a complex system.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/32309430d2cd9789d248de841ba0f5f0_noor.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/32309430d2cd9789d248de841ba0f5f0_noor.pdf
 file_size: 41472
 file_type: application/pdf
 learning_resource_types:

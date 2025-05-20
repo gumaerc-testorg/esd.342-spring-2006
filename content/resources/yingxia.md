@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: THis resource contains information on Yingxia Yang's bias.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/13e2dd574b9c3c9051ea2d72bd36a5e2_yingxia.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/13e2dd574b9c3c9051ea2d72bd36a5e2_yingxia.pdf
 file_size: 14702
 file_type: application/pdf
 learning_resource_types:

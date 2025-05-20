@@ -2,7 +2,7 @@
 content_type: resource
 description: This section contains information on project description, the data set,
   what we?ve done - so far?, what?s next.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/3da3cab26ba37bed42eeb2ee8925a665_pres1_socialnets.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/3da3cab26ba37bed42eeb2ee8925a665_pres1_socialnets.pdf
 file_size: 388714
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on schematic of engineering system model
   purposes, and network model types of interest.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/6c653d7a762415a91ba7497fc8ea4148_lec25_magee.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/6c653d7a762415a91ba7497fc8ea4148_lec25_magee.pdf
 file_size: 53861
 file_type: application/pdf
 learning_resource_types:

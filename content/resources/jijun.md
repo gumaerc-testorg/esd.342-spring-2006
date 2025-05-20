@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on jijun's education background.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/87420ca90ced1f6bac0d3bb4cda10119_jijun.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/87420ca90ced1f6bac0d3bb4cda10119_jijun.pdf
 file_size: 15432
 file_type: application/pdf
 learning_resource_types:

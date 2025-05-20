@@ -3,7 +3,7 @@ content_type: resource
 description: This section contains information on nomenclature and data sources, history
   and political Economy of PSTN, summary of constraints and the current state of PSTN,
   network analysis.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/cc13a050ea987c396f4524760ceed097_report_pstn.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/cc13a050ea987c396f4524760ceed097_report_pstn.pdf
 file_size: 1130529
 file_type: application/pdf
 learning_resource_types:

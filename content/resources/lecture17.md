@@ -4,7 +4,7 @@ description: This resource gives information on line-staff models of organizatio
   management is three steps from managing the bottom line directly, decision-making
   structures and organizational implications II, and organization categories from
   the dws model.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/4bd40486833a5649b582b654d8d39404_lecture17.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/4bd40486833a5649b582b654d8d39404_lecture17.pdf
 file_size: 451677
 file_type: application/pdf
 learning_resource_types:
