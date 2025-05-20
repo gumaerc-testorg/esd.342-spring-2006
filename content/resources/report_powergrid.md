@@ -2,7 +2,7 @@
 content_type: resource
 description: This section contains information on introduction, system description,
   system historical background and evolution, size, scale, and network metrics.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/fd629213752222db8e161eb057f0144f_report_powergrid.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/fd629213752222db8e161eb057f0144f_report_powergrid.pdf
 file_size: 4561900
 file_type: application/pdf
 learning_resource_types:

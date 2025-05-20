@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about Robert Nicol.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/be780506535ec79a963bc4866b020bf5_nicolintro.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/be780506535ec79a963bc4866b020bf5_nicolintro.pdf
 file_size: 69530
 file_type: application/pdf
 learning_resource_types:

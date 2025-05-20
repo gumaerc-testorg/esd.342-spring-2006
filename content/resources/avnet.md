@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on disciplinary background, and research
   interests.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/cfb0c6eab1faddc6481c93c36182a1fb_avnet.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/cfb0c6eab1faddc6481c93c36182a1fb_avnet.pdf
 file_size: 15661
 file_type: application/pdf
 learning_resource_types:

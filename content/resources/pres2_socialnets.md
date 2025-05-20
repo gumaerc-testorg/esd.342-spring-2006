@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This section contains information on project goal, data: wikipedia online
   encyclopedia, surface map of network signatures (FY).'
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/a00289e18386ce2db8a02e00d198b536_pres2_socialnets.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/a00289e18386ce2db8a02e00d198b536_pres2_socialnets.pdf
 file_size: 292445
 file_type: application/pdf
 learning_resource_types:

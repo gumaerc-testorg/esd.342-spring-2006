@@ -2,7 +2,7 @@
 content_type: resource
 description: This section contains information on hypothesis, structured vs. unstructured,
   planned vs. evolved, EB circle of knowledge, transportation systems.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/0e2c24e753696b6cf462f7ed6277edc4_pres2_cent_decen.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/0e2c24e753696b6cf462f7ed6277edc4_pres2_cent_decen.pdf
 file_size: 760157
 file_type: application/pdf
 learning_resource_types:

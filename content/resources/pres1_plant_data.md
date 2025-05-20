@@ -3,7 +3,7 @@ content_type: resource
 description: THis resource contains information on overview of the planetary data
   system, collaborations of data suppliers, bipartite collaboration network, component
   structure, and summary of future work.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/9c5a7b093a4d16344e2081baa778dee9_pres1_plant_data.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/9c5a7b093a4d16344e2081baa778dee9_pres1_plant_data.pdf
 file_size: 725915
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on environmental engineering in drinking
   water treatment
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/186536d38525550d79ee640766cc2606_song_jaemin.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/186536d38525550d79ee640766cc2606_song_jaemin.pdf
 file_size: 12049
 file_type: application/pdf
 learning_resource_types:

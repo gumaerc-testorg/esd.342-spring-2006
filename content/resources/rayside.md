@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource talks about the MIT approach.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/79d60b88aae93953c4ae5ebda301e3c4_rayside.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/79d60b88aae93953c4ae5ebda301e3c4_rayside.pdf
 file_size: 209047
 file_type: application/pdf
 learning_resource_types:

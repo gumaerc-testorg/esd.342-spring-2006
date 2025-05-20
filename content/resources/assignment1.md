@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives brief introduction.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/fe0fbc3930add679d6745da706534655_assignment1.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/fe0fbc3930add679d6745da706534655_assignment1.pdf
 file_size: 14629
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on evaluating a model, traditional
   approaches.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/1112eab368a4bea534ed2cefa17f3737_hanowsky.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/1112eab368a4bea534ed2cefa17f3737_hanowsky.pdf
 file_size: 22299
 file_type: application/pdf
 learning_resource_types:
