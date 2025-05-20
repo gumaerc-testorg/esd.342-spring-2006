@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on sub-saharan african electric power
   systems.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/267cf220d7739221ad2d5f7e21b9d3ce_steel.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/267cf220d7739221ad2d5f7e21b9d3ce_steel.pdf
 file_size: 125438
 file_type: application/pdf
 learning_resource_types:

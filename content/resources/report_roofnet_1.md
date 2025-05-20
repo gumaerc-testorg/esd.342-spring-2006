@@ -2,7 +2,7 @@
 content_type: resource
 description: This section contains information on general overview, system description,
   stimulus, main actors, stakeholders.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/e7272dd0fd47d41edf87bf4618502a31_report_roofnet_1.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/e7272dd0fd47d41edf87bf4618502a31_report_roofnet_1.pdf
 file_size: 4219287
 file_type: application/pdf
 learning_resource_types:

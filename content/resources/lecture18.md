@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/57db391a53e8d49359a9644ec03a8fce_lecture18.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/57db391a53e8d49359a9644ec03a8fce_lecture18.pdf
 file_size: 2288680
 file_type: application/pdf
 learning_resource_types:

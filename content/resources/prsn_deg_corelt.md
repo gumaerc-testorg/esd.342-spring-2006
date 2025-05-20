@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The ZIP file contains: 2 .m files'
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/741782a51425f71478f3f3d871bb10aa_prsn_deg_corelt.zip
+file: /courses/esd-342-advanced-system-architecture-spring-2006/741782a51425f71478f3f3d871bb10aa_prsn_deg_corelt.zip
 file_size: 865
 file_type: application/zip
 learning_resource_types:

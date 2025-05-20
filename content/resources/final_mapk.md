@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource gives information on network statistics: the usual suspects,
   structural analysis: motifs and communities, other datasets, benchmarking, and future
   directions and scope.'
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/6108b266a3ddc712ece4dbd89396d61f_final_mapk.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/6108b266a3ddc712ece4dbd89396d61f_final_mapk.pdf
 file_size: 2242498
 file_type: application/pdf
 learning_resource_types:

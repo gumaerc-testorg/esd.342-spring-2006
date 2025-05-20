@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on things like why the proposed system
   is interesting to you, etc.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/54b573f758afec6f13e3fc22023ae82f_assignment2.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/54b573f758afec6f13e3fc22023ae82f_assignment2.pdf
 file_size: 16084
 file_type: application/pdf
 learning_resource_types:

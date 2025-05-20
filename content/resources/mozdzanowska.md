@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about Aleksandra Mozdzanowska.
-file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/bc3622e97cc5144d9ea6777fab5f2e8e_mozdzanowska.pdf
+file: /courses/esd-342-advanced-system-architecture-spring-2006/bc3622e97cc5144d9ea6777fab5f2e8e_mozdzanowska.pdf
 file_size: 56556
 file_type: application/pdf
 learning_resource_types:
