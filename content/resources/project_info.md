@@ -2,7 +2,7 @@
 content_type: resource
 description: This section contains information on project goals, project deliverables,
   final presentation objectives, final report content.
-file: /courses/esd-342-advanced-system-architecture-spring-2006/6130e3c1e261f99ba7c556059d8f486e_project_info.pdf
+file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/6130e3c1e261f99ba7c556059d8f486e_project_info.pdf
 file_size: 25723
 file_type: application/pdf
 learning_resource_types:

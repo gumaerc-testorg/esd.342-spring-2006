@@ -3,7 +3,7 @@ content_type: resource
 description: This resource gives information on typology of organizational structures
   and system architectures, team structures, layered hierarchies, and mixed trees,
   and layers.
-file: /courses/esd-342-advanced-system-architecture-spring-2006/243658956c220f6b868c3b0c5bcb7028_lec8.pdf
+file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/243658956c220f6b868c3b0c5bcb7028_lec8.pdf
 file_size: 104462
 file_type: application/pdf
 learning_resource_types:

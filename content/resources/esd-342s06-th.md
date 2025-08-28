@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/esd-342-advanced-system-architecture-spring-2006/b47241f5b6d141e4ec7d342f3979150d_esd-342s06-th.jpg
+file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/b47241f5b6d141e4ec7d342f3979150d_esd-342s06-th.jpg
 file_size: 20241
 file_type: image/jpeg
 image_metadata:
