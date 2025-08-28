@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on point of view and biases presentations,
   ans possible importance of point of view/ bias exercise.
-file: /courses/esd-342-advanced-system-architecture-spring-2006/5680ffd3867c58be5719b5af151eb148_lec3_hw2.pdf
+file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/5680ffd3867c58be5719b5af151eb148_lec3_hw2.pdf
 file_size: 33493
 file_type: application/pdf
 learning_resource_types:

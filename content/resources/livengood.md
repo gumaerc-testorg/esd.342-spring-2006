@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on Dan Livengood.
-file: /courses/esd-342-advanced-system-architecture-spring-2006/023a0cad6cef289504cf33a0292652da_livengood.pdf
+file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/023a0cad6cef289504cf33a0292652da_livengood.pdf
 file_size: 26354
 file_type: application/pdf
 learning_resource_types:

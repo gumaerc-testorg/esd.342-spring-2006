@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on systems context typology, complex
   network, and the iterative learning.
-file: /courses/esd-342-advanced-system-architecture-spring-2006/c66cacc3511803bfc837c1965f4dbe18_lec2.pdf
+file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/c66cacc3511803bfc837c1965f4dbe18_lec2.pdf
 file_size: 197695
 file_type: application/pdf
 learning_resource_types:

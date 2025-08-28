@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on experience & technical problems.
-file: /courses/esd-342-advanced-system-architecture-spring-2006/d4f9fd90bff29e33acc7481d0279d57e_weibel.pdf
+file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/d4f9fd90bff29e33acc7481d0279d57e_weibel.pdf
 file_size: 35473
 file_type: application/pdf
 learning_resource_types:

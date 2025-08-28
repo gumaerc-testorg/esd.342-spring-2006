@@ -3,7 +3,7 @@ content_type: resource
 description: This section contains information on revised method of matrix generation,
   system representation, analyses on power grid, histograms, degree distributions
   and metrics, expected outputs and conclusions.
-file: /courses/esd-342-advanced-system-architecture-spring-2006/487077c4413930b0ce2f641694521e11_pres2_powergrid.pdf
+file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/487077c4413930b0ce2f641694521e11_pres2_powergrid.pdf
 file_size: 1982579
 file_type: application/pdf
 learning_resource_types:
