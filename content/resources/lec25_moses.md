@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource gives information on
 
   On the relation of cs to system architecture,  and generic vs. Real architectures.'
-file: /courses/esd-342-advanced-system-architecture-spring-2006/4b3094e8ede7c15e75b845c25621545c_lec25_moses.pdf
+file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/4b3094e8ede7c15e75b845c25621545c_lec25_moses.pdf
 file_size: 21245
 file_type: application/pdf
 learning_resource_types:

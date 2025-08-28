@@ -2,7 +2,7 @@
 content_type: resource
 description: This section contains information on Agenda, IPCC report preparation
   process, motivation, analysis of the entire IPCC report.
-file: /courses/esd-342-advanced-system-architecture-spring-2006/75aea439220e260bab37fc63b7266683_final_team_struc.pdf
+file: /ol-ocw-studio-app/courses/esd-342-advanced-system-architecture-spring-2006/75aea439220e260bab37fc63b7266683_final_team_struc.pdf
 file_size: 277264
 file_type: application/pdf
 learning_resource_types:
