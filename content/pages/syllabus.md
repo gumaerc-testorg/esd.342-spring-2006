@@ -59,7 +59,7 @@ Watts, Duncan. _Six Degrees: The Science of a Connected Age_ . New York, NY: W.W
 
 Additional {{% resource_link 144b985e-3398-9d73-8598-b61ad36db69c "readings" %}} consisting of book excerpts and papers are assigned for most class sessions.
 
-The course also uses this downloadable book that doubles as a user guide to UCINET software: Hanneman, R. A., and M. Riddle. {{% resource_link "e57c0e9e-3c93-41e4-a5f3-6b26c4880204" "_Introduction to social network methods_" %}}.
+The course also uses this downloadable book that doubles as a user guide to UCINET software: Hanneman, R. A., and M. Riddle. [_Introduction to social network methods_](http://faculty.ucr.edu/~hanneman/nettext/).
 
 Assignments
 -----------

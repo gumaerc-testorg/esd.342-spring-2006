@@ -35,20 +35,20 @@ Note: always test a routine on a simple example for which you know already what 
 Mfinder
 -------
 
-Mfinder is a network motifs detection tool. Software, source code, a manual and supporting materials are available from {{% resource_link "65f77cfc-3e39-49a6-9954-c0f7334ec6ad" "Uri Alon's homepage" %}}, select the "Network Motif Software" link.
+Mfinder is a network motifs detection tool. Software, source code, a manual and supporting materials are available from [Uri Alon's homepage](http://www.weizmann.ac.il/mcb/UriAlon/), select the "Network Motif Software" link.
 
 Pajek
 -----
 
-{{% resource_link "fd726659-6e1d-45db-accc-abb1c813428f" "Pajek" %}} (Program for Large Network Analysis) is a free software package.
+[Pajek](http://vlado.fmf.uni-lj.si/pub/networks/pajek/) (Program for Large Network Analysis) is a free software package.
 
-*   Pajek Manual ({{% resource_link "5d1309b6-1d15-4dac-949e-278ab85c6a35" "PDF" %}})
-*   {{% resource_link "ac66c6fb-e8a3-4352-827b-116cb20b9362" "Pajek Tutorials" %}}
+*   Pajek Manual ([PDF](http://vlado.fmf.uni-lj.si/pub/networks/pajek/doc/pajekman.pdf))
+*   [Pajek Tutorials](http://vlado.fmf.uni-lj.si/pub/networks/pajek/howto.htm)
 
 UCINET
 ------
 
-{{% resource_link "78b2af14-a4fe-46fd-bca6-fba615c78b97" "UCINET" %}} is a software package for the analysis of social network data as well as other 1-mode and 2-mode data.
+[UCINET](http://www.analytictech.com/ucinet/ucinet.htm) is a software package for the analysis of social network data as well as other 1-mode and 2-mode data.
 
 *   UCINET Tutorial Slides ({{% resource_link 30e24548-b891-6e91-c49d-1977a91a9dcb "PDF - 2.9 MB" %}}) (Courtesy of Mo-Han Hsieh. Used with permission.)
-*   This downloadable book doubles as a user guide to UCINET software: Hanneman, R. A., and M. Riddle. {{% resource_link "e57c0e9e-3c93-41e4-a5f3-6b26c4880204" "_Introduction to social network methods_" %}}.
+*   This downloadable book doubles as a user guide to UCINET software: Hanneman, R. A., and M. Riddle. [_Introduction to social network methods_](http://faculty.ucr.edu/~hanneman/nettext/).
