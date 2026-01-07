@@ -16,7 +16,7 @@ The following table lists readings assigned for each class session.
 
 Course textbook: \[Watts\] = Watts, Duncan. *Six Degrees: The Science of a Connected Age*. New York, NY: W. W. Norton & Co., 2004. ISBN: 0393325423.
 
-This downloadable book doubles as a user guide to UCINET software: Hanneman, R. A., and M. Riddle. {{% resource_link "fbd29676-612a-442b-801e-d633bc286a22" "*Introduction to social network methods*" %}}*.*
+This downloadable book doubles as a user guide to UCINET software: Hanneman, R. A., and M. Riddle. [*Introduction to social network methods*](http://faculty.ucr.edu/~hanneman/nettext)*.*
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
@@ -47,7 +47,7 @@ ESD Architecture Committee, D. L. Whitney - chair. "The Influence of Architectur
 Oltvai, Z. N., and A. Barabasi. "Life's Complexity Pyramid." *Science* 298 (October 25, 2002): 763-764.    
 A brief view of biology at several levels of aggregation.
 
-Strogatz, S. H. "Exploring complex networks." *Nature* 410 (March 8, 2001): 268-276. ({{% resource_link "0b017e4f-0fe8-4556-b5b4-255918298a38" "PDF" %}})    
+Strogatz, S. H. "Exploring complex networks." *Nature* 410 (March 8, 2001): 268-276. ([PDF](https://www.nature.com/articles/35065725))    
 A survey of important static and dynamic networks in several fields.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -96,11 +96,11 @@ Relationship of Architecture/Structure and Metrics (Importance of Data)
 
 \[Watts\] Chapters 1-4
 
-Hayes, Brian. "{{% resource_link "4871c127-9e3a-4ad3-950d-9e4f4b205e8e" "Graph Theory in Practice: Part I" %}}." *American Scientist* 88, no. 1 (2000): 9-13.
+Hayes, Brian. "[Graph Theory in Practice: Part I](https://www.semanticscholar.org/paper/GRAPH-THEORY-IN-PRACTICE-%3A-PART-I-Source/07ae6518908df65f028106213877c1705ad6692d)." *American Scientist* 88, no. 1 (2000): 9-13.
 
-\----. "{{% resource_link "19fdc546-e8c8-4b9c-915a-912975c94c6b" "Graph Theory in Practice: Part II" %}}." *American Scientist* 88, no. 2 (2000): 104-118. \_Background
+\----. "[Graph Theory in Practice: Part II](https://www.semanticscholar.org/paper/GRAPH-THEORY-IN-PRACTICE%3A-PART-II-Hayes/188b3b2f4afda1303b6fe4dc61daa30c33ee497d)." *American Scientist* 88, no. 2 (2000): 104-118. \_Background
 
-*Committee on Network Science for Future Army Applications, National Research Council.* {{% resource_link "f12e05b7-1a5b-4a84-8d2a-3b750c4f8d6d" "*\_Network Science*" %}}. Washington, DC: National Academies Press, 2006. ISBN: 0309653886.    
+*Committee on Network Science for Future Army Applications, National Research Council.* [*\_Network Science*](http://www.nap.edu/catalog/11516.html). Washington, DC: National Academies Press, 2006. ISBN: 0309653886.    
 Leading researchers assess the importance of "network science."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -134,7 +134,7 @@ Social Networks Concepts: Centrality, Clustering, Prestige and Acquaintance
 Degree Distribution, Assessment and Meaning of Power Laws
 
 {{< tdclose >}}{{< tdopen >}}
-Newman, M. E. J. "{{% resource_link "f687563d-b397-4ad1-975d-931e7eb8f02f" "Power laws, Pareto distributions and Zipf's law" %}}." *Contemporary Physics* 46 (2005): 323-351.
+Newman, M. E. J. "[Power laws, Pareto distributions and Zipf's law](http://de.arxiv.org/abs/cond-mat/0412004/)." *Contemporary Physics* 46 (2005): 323-351.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -201,9 +201,9 @@ Community Structure Approaches
 
 Milo, R., et al. " Network Motifs: Simple Building Blocks of Complex Networks." *Science* 298 (25 October 2002): 824-827.
 
-Newman, M. E. J. "Detecting community structure in networks." *Eur Phys J* B 38 (2004): 321-330. ({{% resource_link "12ba7d3a-b1fa-41f3-92d1-066fb1fce7ae" "PDF" %}})
+Newman, M. E. J. "Detecting community structure in networks." *Eur Phys J* B 38 (2004): 321-330. ([PDF](http://www-personal.umich.edu/~mejn/papers/epjb.pdf))
 
-\----. "{{% resource_link "a3a4ef37-0a21-4519-b00e-c563d85a8675" "The structure and function of complex networks" %}}." *SIAM Review* 45 (2003): 167-256.    
+\----. "[The structure and function of complex networks](http://de.arxiv.org/abs/cond-mat/0303516/)." *SIAM Review* 45 (2003): 167-256.    
 This paper contains references needed to complete Assignment 3.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -221,7 +221,7 @@ Coarse-graining and Technical Systems
 Revisit Modularity
 
 {{< tdclose >}}{{< tdopen >}}
-Itzkovitz, S., et al. "Coarse-Graining and Self-Dissimilarity of Complex Networks." *Physical Review* E71 016127 (January 21, 2005) ({{% resource_link "1bd27634-cde3-4a14-87f5-2d85229c2c51" "PDF" %}})
+Itzkovitz, S., et al. "Coarse-Graining and Self-Dissimilarity of Complex Networks." *Physical Review* E71 016127 (January 21, 2005) ([PDF](https://www.researchgate.net/publication/8034383_Coarse-Graining_and_Self-Dissimilarity_of_Complex_Networks))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
@@ -240,7 +240,7 @@ Cascades, Failures and Epidemics as an Example
 
 Watts, D. J. "A simple model of global cascades on random networks." *PNAS* 99, no. 9 (April 30, 2002): 5766-5771.
 
-Meyers, L. A., M. E. J. Newman, M. Martin and S. Schrag. "{{% resource_link "5141954d-1140-47a8-a414-bd92b3676867" "Applying network theory to epidemics: control measures for Mycoplasma pneumoniae outbreaks" %}}." *Emerg Infect Dis* (2003 February).
+Meyers, L. A., M. E. J. Newman, M. Martin and S. Schrag. "[Applying network theory to epidemics: control measures for Mycoplasma pneumoniae outbreaks](http://www.cdc.gov/ncidod/EID/vol9no2/02-0188.htm)." *Emerg Infect Dis* (2003 February).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -271,10 +271,10 @@ Search on the www
 Watts, D. J., P. S. Dodds, and M. E. J. Newman. "Identity and Search in Social Networks." *Science* 296 (May 17, 2002): 1302-1305.    
 This paper (and Kleinberg 2001) introduced the idea of hierarchies in social identity and use it to model milgram's experiment relatively successfully.
 
-Kleinberg, J. M. "Navigation in a small world." *Nature* 406 (August 24, 2000): 845. ({{% resource_link "91a4e5f3-3fd1-4736-be5b-880be6811195" "PDF" %}})    
+Kleinberg, J. M. "Navigation in a small world." *Nature* 406 (August 24, 2000): 845. ([PDF](http://www.cs.cornell.edu/home/kleinber/nat00.pdf))    
 This paper was the first to note (and model) the diffcult part of Milgram's experiment.
 
-\----. "Small-World Phenomena and the Dynamics of Information." 2001. ({{% resource_link "6efef21e-afe3-4156-ba5a-c922e7c155fb" "PDF" %}})    
+\----. "Small-World Phenomena and the Dynamics of Information." 2001. ([PDF](http://www.cs.cornell.edu/home/kleinber/nips14.pdf))    
 Kleinberg's second paper introducing hierarchy into social identity and thus succesfully modeling Milgram's experiment.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -345,7 +345,7 @@ Continuation of Constraints and Scaling in Engineering Systems
 Degree Correlation Patterns in Different Technical Systems
 
 {{< tdclose >}}{{< tdopen >}}
-Gastner, M. T., and M. E. J. Newman. "{{% resource_link "47642dc2-ddb7-4b4e-9aad-195d6b2d6cb1" "Shape and efficiency in spatial distribution networks" %}}." *J Stat Mech* (2006): P01015.
+Gastner, M. T., and M. E. J. Newman. "[Shape and efficiency in spatial distribution networks](http://de.arxiv.org/abs/cond-mat/0409702/)." *J Stat Mech* (2006): P01015.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
